@@ -1,0 +1,28 @@
+Quỳnh, Chí Long-Trang đăng nhập, đăng ký (custom message box+ button+ radio button), trang chủ, quản lý khách hàng, quản lý nhân viên, quản lý thiết bị + quản lý phòng tập (image) +auto ID
+Lê Duy, Vy-Trang dịch vụ + (image), trang thống kê, trang hóa đơn
+Huy Lê-Trang profile (+đổi mk) + (image) + hỗ trợ về database 
+
+Đăng nhập:
+0898408219
+Pnq123
+
+Tham Khảo:
+
+Icon
+https://www.flaticon.com/
+size w18
+
+Auto ID
+https://www.youtube.com/watch?v=ub1iwTL7iTs
+
+Upload- Insert Ảnh vô SQL Database
+https://www.youtube.com/watch?v=Is7INDgHuX4&t=109s
+https://www.youtube.com/watch?v=Is7INDgHuX4&list=LL&index=9
+
+Thống kê
+https://www.youtube.com/watch?v=Yx8TitvxcpI
+https://www.youtube.com/watch?v=KzRxQ07RhMQ&list=LL&index=5
+https://www.youtube.com/watch?v=gqo2TGpCOlA&list=LL&index=6&t=588s
+
+Insert, Update, Delete, View and Search
+https://www.youtube.com/watch?v=-2UcDV4uUu8&list=LL&index=11&t=1440s

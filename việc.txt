@@ -1,22 +1,21 @@
-# CNPM
 Dl thứ 7. 21h họp + chốt dtb
 Mn chọn winform .NET và set size form 1600:900
 **Mn làm giao diện thì dựa vô dtb Q đã làm và fix theo của trang mình, ghi chú và update trên github để t7 chỉnh sửa dtb cho dễ
-#Chí Long:
+Chí Long:
 + đăng kí tập thử
 + đăng kí dịch vụ (trong này có giá tiền, phòng, lịch tập) 
 (khi đăng kí hiện form hóa đơn con ra để khách hàng xác nhận mua hoặc hủy)
-#Huy Lê:
+Huy Lê:
 + Hóa đơn
 + Thống kê
-#Quỳnh:
+Quỳnh:
 + đăng ký, đăng nhập, nav, trang chủ
 + trang thông tin cá nhân (user, admin)
 + database
-#Lê Duy:
+Lê Duy:
 + Nhân sự
 + Khách hàng
 + Dịch vụ
-#Vy:
+Vy:
 + Thiết bị
 + Phòng
